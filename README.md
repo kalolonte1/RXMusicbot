@@ -54,7 +54,7 @@
 ## Heroku Deployment 
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalolonte1/RXMusicbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/log-afk-xD/RXMusicbot)
 
 ### Credits 🕊️
 - [Kennedy](https://github.com/KennedyProject) Developer
