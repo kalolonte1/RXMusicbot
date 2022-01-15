@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/73cbefa8401982900fe81.jpg",
     "description": "RX Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/kalolonte1/RXMusicbot", 
+    "repository": "https://github.com/log-afk-xD/RXMusicbot", 
     "stack": "container",
     "env": {
         "SESSION_NAME": {
